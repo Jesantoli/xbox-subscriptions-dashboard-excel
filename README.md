@@ -52,9 +52,3 @@ Dashboard desenvolvido para análise estratégica das assinaturas Xbox, permitin
   - Formatação condicional 
 
 
-## 📸 Screenshots
-![Filtros](/screenshots/filters.png)  
-Seleção de Subscription Type
-
-![Gráficos](/screenshots/charts.png)  
-Visualização comparativa
